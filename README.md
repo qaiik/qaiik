@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://githubrms.qaiik.repl.co/)](https://github.com/anuraghazra/github-readme-stats)
+![c](https://githubrms.qaiik.repl.co/qghs2.png)
