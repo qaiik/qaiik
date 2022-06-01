@@ -1,1 +1,1 @@
-[![https://githubrms.qaiik.repl.co]]
+![c](https://githubrms.qaiik.repl.co)
