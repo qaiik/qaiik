@@ -19,11 +19,10 @@
 hey everyone, I'm qaiik 
 
 I go by winter 🏳️‍⚧️<br/>
-i have a ridiculous amount of repos
-90% or more are unfinished
+i have a ridiculous amount of repos, 90% or more unfinished
 
 ignore almost everything that isn't and doesnt use esbuild or typescript
 
 I mainly do js/ts (a lot)<br/> but also can do python and go, although im not as strong in them anymore  
 
-my main project as of now is driftlang. hopefully i actually finish
+my main project as of now is driftlang. hopefully i actually finish!
