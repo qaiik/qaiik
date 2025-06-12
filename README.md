@@ -24,4 +24,4 @@ i have a ridiculous amount of repos
 
 you can basically ignore everything that isn't recent and doesnt use esbuild or typescript
 
-I mainly do js/ts (a lot) but also can do python and go, although im not as strong in them snymore 
+I mainly do js/ts (a lot)<br/> but also can do python and go, although im not as strong in them snymore 
