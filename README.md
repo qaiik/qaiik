@@ -15,3 +15,13 @@
 </div>
 
 -->
+
+hey everyone, I'm qaiik 
+
+I go by winter 🏳️‍⚧️
+i have a ridiculous amount of repos
+90% or more are unfinished
+
+you can basically ignore everything that isn't recent and doesnt use esbuild or typescript
+
+I mainly do js/ts (a lot) but also can do python and go, although im not as strong in them snymore 
